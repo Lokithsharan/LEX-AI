@@ -1,0 +1,5 @@
+{
+  "name": "LEX AI",
+  "description": "An application to upload legal documents (PDFs), extract text, and generate structured summaries using AI.",
+  "requestFramePermissions": []
+}
